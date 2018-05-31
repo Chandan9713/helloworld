@@ -1,6 +1,11 @@
 this is first test file
+<<<<<<< HEAD
 lklkjdslkjlsdkjfs;lf
 ;l;ksdjf;lsjf;lsf
 ks;lfsd;lfs
 ksd;lfks;lfks
 k;skf;skf;sl
+=======
+file added successfully
+setregrhgfdghfdghfdhfdhfdhbjf
+>>>>>>> d356418121a1fd2a73114e7a7f565677433af016
